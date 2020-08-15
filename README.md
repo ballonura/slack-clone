@@ -5,13 +5,13 @@ https://5f384472fded43e536947081--cranky-gates-597aa9.netlify.app/
 
 ```
 
-## Preview
+### Preview
 
 ![Preview Slack clone](https://i.ibb.co/ZKgy1dw/slack-clone.png)
 
 # Slack Clone
 
-## Build Setup
+# Build Setup
 
 ```bash
 # install dependencies
@@ -27,5 +27,3 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).

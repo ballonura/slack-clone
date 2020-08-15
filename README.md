@@ -7,7 +7,7 @@ https://5f384472fded43e536947081--cranky-gates-597aa9.netlify.app/
 
 ## Preview
 
-![Preview Slack clone](https://ibb.co/S0mq7N1)
+![Preview Slack clone](https://i.ibb.co/ZKgy1dw/slack-clone.png)
 
 # Slack Clone
 

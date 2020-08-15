@@ -9,8 +9,6 @@ https://5f384472fded43e536947081--cranky-gates-597aa9.netlify.app/
 
 ![Preview Slack clone](https://i.ibb.co/ZKgy1dw/slack-clone.png)
 
-# Slack Clone
-
 # Build Setup
 
 ```bash
